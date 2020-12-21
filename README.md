@@ -27,3 +27,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 [GPLv3](LICENSE)
+
+软件介绍：Trojan是一个比较新的fanqiang软件，在设计时采用了更适应国情的思路。在穿透墙时，人们认为强加密和随机混淆可能会欺骗墙的过滤机制。然而，Trojan实现了这个思路的反面：它模仿了互联网上最常见的HTTPS协议，以诱骗墙认为它就是HTTPS，从而不被识别。Trojan搭建后台服务器较为复杂，上手门槛高。
